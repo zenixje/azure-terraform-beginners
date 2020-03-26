@@ -22,7 +22,7 @@ variable "hostname" {
 
 variable "location" {
   description = "The region where the virtual network is created."
-  default     = "centralus"
+  default     = "westus"
 }
 
 variable "virtual_network_name" {
@@ -52,7 +52,7 @@ variable "storage_replication_type" {
 
 variable "vm_size" {
   description = "Specifies the size of the virtual machine."
-  default     = "Standard_A0"
+  default     = "Standard_D1"
 }
 
 variable "image_publisher" {
