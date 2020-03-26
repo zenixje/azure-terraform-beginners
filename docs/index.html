@@ -72,13 +72,13 @@ First I will click on the CloudShell icon here to open up a CloudShell prompt. A
 
 Once i've opened a command prompt, I can use the `git clone` command to pull some code off of GitHub and into my cloudshell environment.
 
-`git clone https://github.com/scarolan/azure-terraform-beginners`
+`git clone https://github.com/ericvanlaargmailcom/azure-terraform-beginners`
 
-This is a really simple terraform config that I wrote to stand up a single VM with a web page on it. Now I can change into the repo that I just downloaded:
+This is a really simple terraform config to stand up a single VM with a web page on it. Now I can change into the repo that I just downloaded:
 
 The next step is to configure a couple of variables.  For that I can use the handy build in text editor with the `code` command. You're also welcome to use vi, nano, or emacs which are all installed in your cloudshell.
 
-Everyone should pick a different name for their application.  You can also choose a region close to your location if you like.  I'm going to go with centralus.  
+Everyone should pick a different name for their application.  You can also choose a region close to your location if you like.  I'm going to go with westus.  
 
 Once we have our variables saved we're going to run `terraform init`
 
@@ -88,15 +88,6 @@ And finally we'll run `terraform apply`
 
 Now watch here in the portal, we can actually see our resources being built in real-time.  Terraform is quickly and efficiently standing up all of the resources configured in our terraform code.  While that builds let's walk through this Terraform code step by step and explain what's going on.
 
-(Explain what is going on in the terraform plan and how all the different parts work together.)
-
 Hey, look our application is up and running!  Let's click on the link here in the outputs and see what we built!
 
-When I'm done here, cleanup is really easy.  All I have to do is run `terraform destroy` and all of my resources will be wiped out.
-
-
-    </textarea>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript"></script>
-    <script src="./remark_settings.js" type="text/javascript"></script>
-  </body>
-</html>
+When I'm done here, cleanup is really easy.  All I have to do is run `terraform destroy` and all of my resources will be wiped out!
