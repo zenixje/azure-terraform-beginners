@@ -7,10 +7,10 @@ apt install -y apache2 > /dev/null 2>&1
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Meow!</title></head>
+  <head><title>Wroefff!</title></head>
   <body style="background-image: linear-gradient(red,orange,yellow,green,blue,indigo,violet);">
-  <center><img src="http://placekitten.com/800/600"></img></center>
-  <marquee><h1>Meow World</h1></marquee>
+  <center><img src="https://media.tenor.com/images/6c2cda3d364bb30bada456deae08e792/tenor.gif"></img></center>
+  <marquee><h1>Wroeff World</h1></marquee>
   </body>
 </html>
 EOM
