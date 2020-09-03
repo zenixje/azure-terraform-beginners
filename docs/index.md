@@ -2,7 +2,7 @@ Terraform and Azure for Beginners
 
 Get up and running with Terraform on Azure
 
-My name is Eric van Laar and I'm a Microsoft Certified Trainer with Ainoa Cloud Solutions. I like building things. In my past life I was a Ops engineer, now I teach and help users get started with Infrastructure as Code.
+My name is Eric van Laar and I'm a Microsoft Certified Trainer with Aino Cloud Solutions. I like building things. In my past life I was a Ops engineer, now I teach and help users get started with Infrastructure as Code.
 
 Welcome to the beginner's guide to Terraform on Azure. We'll have you provisioning your first application on Azure with Terraform in less than 15 minutes. If you're new to Terraform or Azure, this webinar is for YOU. And if you're a Terraform veteran, hang around, perhaps you'll learn a few new tricks.
 
