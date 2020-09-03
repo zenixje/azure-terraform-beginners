@@ -1,4 +1,5 @@
 Terraform and Azure for Beginners
+
 Get up and running with Terraform on Azure
 
 My name is Eric van Laar and I'm a Microsoft Certified Trainer with Ainoa Cloud Solutions. I like building things. In my past life I was a Ops engineer, now I teach and help users get started with Infrastructure as Code.
