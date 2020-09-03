@@ -43,7 +43,7 @@ Let's do a live demo! I'm going to walk you through the process of building a ve
 
 First we'll log onto the Azure portal. If you don't have an account yet you can sign up for free. Microsoft will give you $200 USD in Azure credits to use in your first 30 days. Or you can sign up for the Visual Studio Dev Essentials subscription and get $25 a month to use:
 
-https://blogs.msdn.microsoft.com/cbtham/2018/05/19/activate-free-azure-cloud-credits-visual-studio-dev-essentials/
+https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/
 
 Once you've signed in you'll see your landing page in the Portal. One of the things I like about Azure is the ability to have custom dashboards that show different resources. This is my Terraform dashboard. 
 
