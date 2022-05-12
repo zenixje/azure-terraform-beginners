@@ -9,7 +9,7 @@ cat << EOM > /var/www/html/index.html
 <html>
   <head><title>Wroefff!</title></head>
   <body style="background-image: linear-gradient(red,orange,yellow,green,blue,indigo,violet);">
-  <center><img src="https://media.tenor.com/images/6c2cda3d364bb30bada456deae08e792/tenor.gif"></img></center>
+  <center><img src="https://www.santevet.be/uploads/images/nl_BE/rassen/maine_coon_assurance_santevet.jpeg"></img></center>
   <marquee><h1>Wroeff World!!!</h1></marquee>
   </body>
 </html>
